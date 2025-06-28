@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <<img src="````markdown name=README.md
-![Profile Picture](image1)
+![Profile Picture](/storage/emulated/0/Download/IMG_20250313_135623_enhanced.jpg.png)
 
 # 👋 Hi, I’m Srujana Medimi (22K61A0597)!
 
